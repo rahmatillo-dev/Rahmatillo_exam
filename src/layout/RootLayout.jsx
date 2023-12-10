@@ -135,8 +135,9 @@ function RootLayout() {
           </div>
         </div>
         <div>
-          <hr />
-          <div>
+         <span className=" mt-[50] mb-[30px] "> <hr  /></span>
+        <div className=" flex items-center justify-between">
+            <div>
             <p>@2023 streamvib, All Rights Reserved</p>
           </div>
           <div>
@@ -144,6 +145,7 @@ function RootLayout() {
             <p>Privacy Policy</p>
             <p>Cookie Policy</p>
           </div>
+        </div>
         </div>
       </footer>
     </>
