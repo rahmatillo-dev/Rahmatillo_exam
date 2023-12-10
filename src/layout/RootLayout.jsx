@@ -140,7 +140,7 @@ function RootLayout() {
             <div>
             <p>@2023 streamvib, All Rights Reserved</p>
           </div>
-          <div>
+          <div className="flex items-center justify-center gap-2">
             <p>Terms of Use</p>
             <p>Privacy Policy</p>
             <p>Cookie Policy</p>
