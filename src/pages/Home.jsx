@@ -46,7 +46,7 @@ function Home() {
               StreamVibe, you can enjoy a wide variety of content, including the
               latest blockbusters, classic movies, popular TV shows, and more.
               You can also create your own watchlists, so you can easily find
-              the content you want to watch.
+              the content  to watch.
             </p>
             <button className="border rounded bg-[#E50000]  ">
               <span className="flex items-center gap-1 p-2 text-white">
